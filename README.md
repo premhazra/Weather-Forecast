@@ -1,6 +1,7 @@
 🚀 Weather Forecast App
 =====================
 Tagline: A React-based weather forecast application that fetches data through API.
+
 📖 Description
 ----------------
 

@@ -1,23 +1,23 @@
 🚀 Weather Forecast App
 =====================
-
+Tagline: A React-based weather forecast application that fetches data through API.
 📖 Description
 ----------------
 
-The Weather Forecast App is a user-friendly application that displays current weather conditions and forecasts for various locations around the world. The app uses the OpenWeatherMap API to fetch weather data and is built using React, Vite, and Tailwind CSS.
+The Weather Forecast App is a user-friendly application that displays current weather conditions and forecasts for various locations around the world. The app uses the API to fetch weather data and is built using React, Vite, and Tailwind CSS.
 
 The app is designed to be easy to use, with a simple and intuitive interface that allows users to search for their location and view current weather conditions, as well as a 5-day forecast. The app also includes features such as wind speed, humidity, and cloud cover.
 
 **Features**
 ------------
 
-1. 🌡️ Real-time weather data: The app fetches real-time weather data from the OpenWeatherMap API, providing users with up-to-date information on current weather conditions.
+1. 🌡️ Real-time weather data: The app fetches real-time weather data from the API, providing users with up-to-date information on current weather conditions.
 2. 📍 Location search: Users can search for their location by city, state, or zip code to view weather conditions and forecasts.
 3. 📊 5-day forecast: The app provides a 5-day forecast for the searched location, including high and low temperatures, wind speed, humidity, and cloud cover.
 4. ☁️ Weather icons: The app uses icons to represent the current weather conditions, making it easy for users to quickly identify the weather.
 5. 📈 Historical data: The app stores historical weather data, allowing users to view past weather conditions and forecasts.
 6. 📊 Unit conversion: The app allows users to switch between Celsius and Fahrenheit for temperature units.
-7. 🔒 Secure API integration: The app securely integrates with the OpenWeatherMap API to fetch weather data.
+7. 🔒 Secure API integration: The app securely integrates with the API to fetch weather data.
 8. 📊 Responsive design: The app is designed to be responsive, providing a user-friendly experience on desktop, tablet, and mobile devices.
 9. 📂 Offline support: The app supports offline use, allowing users to view previously fetched weather data even when not connected to the internet.
 10. 📊 Data caching: The app caches weather data locally, reducing the need for repeated API requests.
@@ -27,7 +27,7 @@ The app is designed to be easy to use, with a simple and intuitive interface tha
 
 | Frontend | Backend | Tools |
 | --- | --- | --- |
-| React | - | Vite, Tailwind CSS, OpenWeatherMap API |
+| React | - | Vite, Tailwind CSS,  API |
 
 **Project Structure**
 -------------------
@@ -65,7 +65,7 @@ vite.svg
 
 1. Run the app in a development environment: `npm run dev`
 2. Test the app's functionality by searching for a location and viewing the weather data.
-3. Verify that the app fetches real-time weather data from OpenWeatherMap API.
+3. Verify that the app fetches real-time weather data from  API.
 4. Test the app's responsiveness on different devices and screen sizes.
 
 **Screenshots**

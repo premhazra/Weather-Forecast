@@ -1,8 +1,6 @@
 🚀 Weather Forecast App
 =====================
 
-**Tagline:** A React-based weather forecast application that fetches data from OpenWeatherMap API.
-
 📖 Description
 ----------------
 
